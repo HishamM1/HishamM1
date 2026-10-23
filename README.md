@@ -1,11 +1,84 @@
-<h1 align="center">Hi 👋, I'm Hisham Medhat</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hisham-medhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hisham-medhat" height="30" width="40" /></a>
-<a href="https://fb.com/hishamm2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hishamm2001/" height="30" width="40" /></a>
+# Hisham Medhat
+
+<a href="https://github.com/HishamM1"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=560&lines=Software+engineer%2C+backend+first;Laravel+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Rust;I+reproduce+the+bug+before+I+fix+it;Shipping+fixes+upstream+to+Expo" alt="Typing intro" /></a>
+
+<a href="https://www.linkedin.com/in/hisham-medhat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://fb.com/hishamm2001/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
+</div>
+
+```yaml
+whoami:
+  builds: Laravel APIs, TanStack/React dashboards, Expo mobile apps
+  likes: atomic billing math, one-click tools, tests that fail first
+  side_quests: Rust tray apps, Drizzle ORM plugins, web scrapers
+  started_with: pandas notebooks in 2021, then never left the backend
+```
+
+## 🛠️ Things I made
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [🔌 PortPeek](https://github.com/HishamM1/portpeek)
+Something is already on `:3000`. PortPeek tells you what it is and stops it in one click. A ~5 MB Windows tray app built with **Rust + Tauri**.
+
+`winget install PortPeek` · [▶ live demo](https://hishamm1.github.io/portpeek/)
+
+</td>
+<td width="50%" valign="top">
+
+### [🌍 drizzle-i18n](https://github.com/HishamM1/drizzle-i18n)
+Type-safe database localization for **Drizzle ORM**. You can use translation tables or JSON columns, on Postgres, MySQL and SQLite, with no runtime dependencies.
+
+`npm i drizzle-i18n` · [docs](https://drizzle-i18n.netlify.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🧱 laravel-api-starter](https://github.com/HishamM1/laravel-api-starter)
+The Laravel 13 API setup I keep rebuilding, done once: Filament admin, roles + 2FA, Sanctum, actions + laravel-data, OpenAPI docs, health checks, Sentry.
+
+</td>
+<td width="50%" valign="top">
+
+### [📊 tanstack-dashboard-starter](https://github.com/HishamM1/tanstack-dashboard-starter)
+The frontend for the API starter: TanStack Start + shadcn, server-only auth with an httpOnly cookie, cursor-paginated tables, and Arabic with RTL.
+
+</td>
+</tr>
+</table>
+
+## 🤝 Upstream
+
+- **[scrapfly/scrapfly-scrapers](https://github.com/scrapfly/scrapfly-scrapers/pulls?q=author%3AHishamM1)**: added Shopify and Goodreads scrapers, and fixed pagination and parsing in the Reddit, IMDb, Pinterest, Tripadvisor, Glassdoor and AutoScout24 ones
+- **[expo/expo](https://github.com/expo/expo/pulls?q=author%3AHishamM1)**: fixing inline modules on Windows Android builds, [with a repro](https://github.com/HishamM1/expo-inline-modules-windows-repro)
+- **[microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs/pulls?q=author%3AHishamM1)**: getting PortPeek into `winget`
+
+## 🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,react,vue,nodejs,go,rust,tauri,python&perline=10" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,tailwind,docker,git,linux,java,c&perline=10" alt="Data and tools" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📜 `git log --oneline ~/career`
+
+```text
+2026  ship portpeek, drizzle-i18n and the API + dashboard starters, send fixes to expo
+2024  build go-quiz and a booking.com API
+2023  write a Go hospital API and a multi-client Java chat server, build Examz (Laravel + Vue + an NLP grader in FastAPI)
+2022  pick up Laravel and Vue, keep a weather app, and predict NBA positions from ESPN stats
+2021  initial commit: bikeshare data, RFM analysis and flight delays in pandas
+```
+
+<div align="center">
+
+<sub>3,000+ contributions this year, most of them in private repos. The green squares are real, you just can't click them.</sub>
+
+</div>
