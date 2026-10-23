@@ -2,7 +2,7 @@
 
 # Hisham Medhat
 
-<a href="https://github.com/HishamM1"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=560&lines=Software+engineer;Backend%2C+frontend%2C+mobile%2C+desktop;Laravel+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Rust;I+reproduce+the+bug+before+I+fix+it;Shipping+fixes+upstream+to+Expo" alt="Typing intro" /></a>
+<a href="https://github.com/HishamM1"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=560&lines=Software+engineer;Backend%2C+frontend%2C+mobile%2C+desktop;Laravel+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Rust;I+reproduce+the+bug+before+I+fix+it;Building+with+AI+and+LLMs" alt="Typing intro" /></a>
 
 <a href="https://www.linkedin.com/in/hisham-medhat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://fb.com/hishamm2001/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -13,6 +13,7 @@
 whoami:
   builds: Laravel APIs, TanStack/React dashboards, Expo mobile apps
   likes: atomic billing math, one-click tools, tests that fail first
+  ai: LLM-powered features, AI agent workflows, ML since the notebook days
   side_quests: Rust tray apps, Drizzle ORM plugins, web scrapers
   started_with: pandas notebooks in 2021, then everything else
 ```
@@ -57,20 +58,19 @@ The frontend for the API starter: TanStack Start + shadcn, server-only auth with
 ## 🤝 Upstream
 
 - **[scrapfly/scrapfly-scrapers](https://github.com/scrapfly/scrapfly-scrapers/pulls?q=author%3AHishamM1)**: added Shopify and Goodreads scrapers, and fixed pagination and parsing in the Reddit, IMDb, Pinterest, Tripadvisor, Glassdoor and AutoScout24 ones
-- **[expo/expo](https://github.com/expo/expo/pulls?q=author%3AHishamM1)**: fixing inline modules on Windows Android builds, [with a repro](https://github.com/HishamM1/expo-inline-modules-windows-repro)
 - **[microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs/pulls?q=author%3AHishamM1)**: getting PortPeek into `winget`
 
 ## 🧰 Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,ts,react,vue,nodejs,go,rust,tauri,python&perline=10" alt="Languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,tailwind,docker,git,linux,java,c&perline=10" alt="Data and tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,tailwind,docker,git,linux,java,c,tensorflow&perline=10" alt="Data and tools" />
 </p>
 
 ## 📜 `git log --oneline ~/career`
 
 ```text
-2026  ship portpeek, drizzle-i18n and the API + dashboard starters, send fixes to expo
+2026  ship portpeek, drizzle-i18n and the API + dashboard starters, build with AI agents and LLMs
 2024  build go-quiz and a booking.com API
 2023  write a Go hospital API and a multi-client Java chat server, build Examz (Laravel + Vue + an NLP grader in FastAPI)
 2022  pick up Laravel and Vue, keep a weather app, and predict NBA positions from ESPN stats
