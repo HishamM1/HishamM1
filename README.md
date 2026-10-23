@@ -66,7 +66,7 @@ The frontend for the API starter: TanStack Start + shadcn, server-only auth with
 | **Languages** | <img src="https://skillicons.dev/icons?i=php,ts,js,python,go,rust,java,c" alt="PHP, TypeScript, JavaScript, Python, Go, Rust, Java, C" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=laravel,react,vue,nodejs,tauri,fastapi,tailwind" alt="Laravel, React, Vue, Node.js, Tauri, FastAPI, Tailwind" /> |
 | **Data & infra** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,linux" alt="PostgreSQL, MySQL, SQLite, Docker, Git, Linux" /> |
-| **AI & ML** | ![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| **AI in web apps** | ![OpenAI API](https://img.shields.io/badge/OpenAI_API-111827?style=for-the-badge&logo=openai&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logo=databricks&logoColor=white) |
 
 ## 📜 `git log --oneline ~/career`
 
