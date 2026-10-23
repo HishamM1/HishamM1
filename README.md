@@ -2,7 +2,7 @@
 
 # Hisham Medhat
 
-<a href="https://github.com/HishamM1"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=560&lines=Software+engineer;Backend%2C+frontend%2C+mobile%2C+desktop;Laravel+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Rust+%C2%B7+Python;I+reproduce+the+bug+before+I+fix+it" alt="Typing intro" /></a>
+<a href="https://github.com/HishamM1"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=600&lines=Software+engineer;Backend%2C+frontend%2C+mobile%2C+desktop%2C+AI;Laravel+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Rust+%C2%B7+Python;I+reproduce+the+bug+before+I+fix+it" alt="Typing intro" /></a>
 
 <a href="https://www.linkedin.com/in/hisham-medhat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://fb.com/hishamm2001/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
