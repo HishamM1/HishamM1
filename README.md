@@ -2,7 +2,7 @@
 
 # Hisham Medhat
 
-<a href="https://github.com/HishamM1"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=560&lines=Software+engineer;Backend%2C+frontend%2C+mobile%2C+desktop;Laravel+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Rust;I+reproduce+the+bug+before+I+fix+it;Building+with+AI+and+LLMs" alt="Typing intro" /></a>
+<a href="https://github.com/HishamM1"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=560&lines=Software+engineer;Backend%2C+frontend%2C+mobile%2C+desktop;Laravel+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Rust+%C2%B7+Python;I+reproduce+the+bug+before+I+fix+it" alt="Typing intro" /></a>
 
 <a href="https://www.linkedin.com/in/hisham-medhat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://fb.com/hishamm2001/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -13,7 +13,6 @@
 whoami:
   builds: Laravel APIs, TanStack/React dashboards, Expo mobile apps
   likes: atomic billing math, one-click tools, tests that fail first
-  ai: LLM-powered features, AI agent workflows, ML since the notebook days
   side_quests: Rust tray apps, Drizzle ORM plugins, web scrapers
   started_with: pandas notebooks in 2021, then everything else
 ```
@@ -62,15 +61,17 @@ The frontend for the API starter: TanStack Start + shadcn, server-only auth with
 
 ## 🧰 Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,ts,react,vue,nodejs,go,rust,tauri,python&perline=10" alt="Languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,tailwind,docker,git,linux,java,c,tensorflow&perline=10" alt="Data and tools" />
-</p>
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=php,ts,js,python,go,rust,java,c" alt="PHP, TypeScript, JavaScript, Python, Go, Rust, Java, C" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=laravel,react,vue,nodejs,tauri,fastapi,tailwind" alt="Laravel, React, Vue, Node.js, Tauri, FastAPI, Tailwind" /> |
+| **Data & infra** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,linux" alt="PostgreSQL, MySQL, SQLite, Docker, Git, Linux" /> |
+| **AI & ML** | ![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
 
 ## 📜 `git log --oneline ~/career`
 
 ```text
-2026  ship portpeek, drizzle-i18n and the API + dashboard starters, build with AI agents and LLMs
+2026  ship portpeek, drizzle-i18n and the API + dashboard starters
 2024  build go-quiz and a booking.com API
 2023  write a Go hospital API and a multi-client Java chat server, build Examz (Laravel + Vue + an NLP grader in FastAPI)
 2022  pick up Laravel and Vue, keep a weather app, and predict NBA positions from ESPN stats
