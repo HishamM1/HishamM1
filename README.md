@@ -63,7 +63,7 @@ The frontend for the API starter: TanStack Start + shadcn, server-only auth with
 
 | | |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=php,ts,js,python,go,rust,java,c" alt="PHP, TypeScript, JavaScript, Python, Go, Rust, Java, C" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=php,ts,js,python,go,rust,java" alt="PHP, TypeScript, JavaScript, Python, Go, Rust, Java" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=laravel,react,vue,nodejs,tauri,fastapi,tailwind" alt="Laravel, React, Vue, Node.js, Tauri, FastAPI, Tailwind" /> |
 | **Data & infra** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,linux" alt="PostgreSQL, MySQL, SQLite, Docker, Git, Linux" /> |
 | **AI in web apps** | ![OpenAI API](https://img.shields.io/badge/OpenAI_API-111827?style=for-the-badge&logo=openai&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge) |
